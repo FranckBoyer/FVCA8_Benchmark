@@ -1,6 +1,23 @@
 # Benchmark on finite volume schemes for incompressible flows 
 
-!(./Cartesian/mesh_cart_1.png)
+## The four families of meshes
+
+### Conforming triangles
+
+!(Triangles/mesh_tri_3.png)
+
+### Uniform Cartesian
+
+!(Cartesian/mesh_cart_3.png)
+
+### Quadrangles
+
+!(Quadrangles/mesh_quad_3.png)
+
+### Locally refined
+
+!(Locally_Refined/mesh_ref_3.png)
+
 
 ##  The format of the 2D meshes
 
