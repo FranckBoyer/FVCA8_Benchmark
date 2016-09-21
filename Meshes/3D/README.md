@@ -1,5 +1,20 @@
 # Benchmark on finite volume schemes for incompressible flows 
 
+## The three families of meshes
+
+### Hexahedra
+
+![](Hexa/mesh_hexa_2.jpg)
+
+### Tetrahedra
+
+![](Tetra/mesh_tetra_0.jpg)
+
+### Prisms with triangle bases
+
+![](Prism/mesh_prism_1.jpg)
+
+
 ##  The format of the 3D meshes
 
 We provide one format for the meshes
