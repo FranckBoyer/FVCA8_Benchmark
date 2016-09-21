@@ -4,19 +4,19 @@
 
 ### Conforming triangles
 
-!(Triangles/mesh_tri_3.png)
+![](Triangles/mesh_tri_3.png)
 
 ### Uniform Cartesian
 
-!(Cartesian/mesh_cart_3.png)
+![](Cartesian/mesh_cart_3.png)
 
 ### Quadrangles
 
-!(Quadrangles/mesh_quad_3.png)
+![](Quadrangles/mesh_quad_3.png)
 
 ### Locally refined
 
-!(Locally_Refined/mesh_ref_3.png)
+![](Locally_Refined/mesh_ref_3.png)
 
 
 ##  The format of the 2D meshes
