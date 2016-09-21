@@ -1,5 +1,7 @@
 # Benchmark on finite volume schemes for incompressible flows 
 
+!(./Cartesian/mesh_cart_1.png)
+
 ##  The format of the 2D meshes
 
 We provide two different formats for the meshes
