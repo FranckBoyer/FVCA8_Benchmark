@@ -12,6 +12,8 @@ All the necessary informations on the proposed test cases and the expected outpu
 
 The 2D and 3D meshes are available in the [Meshes folder](Meshes). The formats of the mesh files are described in the `README.md`.
 
+You can download the whole repository by clicking on the green button **Clone or download** above and then on **Download ZIP** (or you can `git clone` the repository if you are using git)
+
 ## Contributions
 
 The contributions to the benchmark will be published, after reviewing, in [Springer proceedings in Mathematics and Statistics](http://www.springer.com/series/10533).
