@@ -1,5 +1,10 @@
 # Benchmark for the FVCA8 Conference
 
+## News (update on October 28, 2016)
+
+ * Some people have experienced problems with some of the 3D meshes due to the presence of unexpected `EOL`. The files have been corrected now
+ * We now also provide the 3D meshes in the GMSH format
+
 ## Presentation
 
 This benchmark aims at comparing the accuracy, robustness, complexity of modern finite volume methods on unstructured grids in the context of viscous incompressible flows computations (Stokes and/or Navier-Stokes equations).

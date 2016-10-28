@@ -1,6 +1,6 @@
 # Benchmark on finite volume schemes for incompressible flows 
 
-## The three families of meshes
+## The three families of 3D meshes
 
 ### Hexahedra
 
@@ -17,8 +17,10 @@
 
 ##  The format of the 3D meshes
 
-We provide one format for the meshes
+We provide two formats for the meshes
 
+ `*.msh` : GMSH ASCII format [see the WebSite of GMSH](http://gmsh.info/doc/texinfo/gmsh.html#MSH-ASCII-file-format) 
+ 
  `*.typ3`
 
 ### Format .typ3

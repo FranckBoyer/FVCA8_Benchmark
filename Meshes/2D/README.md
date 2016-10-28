@@ -1,6 +1,6 @@
 # Benchmark on finite volume schemes for incompressible flows 
 
-## The four families of meshes
+## The four families of 2D meshes
 
 ### Conforming triangles
 
