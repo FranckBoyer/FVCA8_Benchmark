@@ -1,5 +1,25 @@
 # Benchmark for the FVCA8 Conference
 
+
+## News (update on December 4, 2016)
+
+
+#### LaTeX Template
+
+ The template for preparing your benchmark contribution is now available in the [ZIP archive](benchmark_FVCA8_template.zip).  Instructions are given in the [PDF Userguide](benchmark_FVCA8_userguide.pdf).
+ 
+#### Important informations
+
+ * Due to the maximum number of allowed pages you may not be able to include all your results in the final PDF version of the proceedings. In this case, you will need to comment out some lines in the source LaTeX template.
+ 
+  However, you are kindly invited to send **all the plain text files containing your results** to the organisers. They could be very useful to perform comparisons between all the contributions. 
+  
+ * In case of any problem with those instructions, in particular with the format imposed for the result `.dat` files, please contact the organisers.
+ 
+ * **Deadline:**  January 6, 2017.
+
+
+
 ## News (update on October 28, 2016)
 
  * Some people have experienced problems with some of the 3D meshes due to the presence of unexpected `EOL`. The files have been corrected now
