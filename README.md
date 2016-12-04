@@ -14,6 +14,21 @@
  
   However, you are kindly invited to send **all the plain text files containing your results** to the organisers. They could be very useful to perform comparisons between all the contributions. 
   
+ * Templates for all the results files (for any possible test case in the benchmark) ar provided in the subdirectory `data` in the archive. Please do not change the names of the files, nor their format. They should look as follows
+ 
+    
+        | mesh | errgu | ordgu | erru | ordu | errp | ordp | errdivu | orddivu | nuu | npu | nnzu | nnzp | nnzup |
+        |    1 |       |       |      |      |      |      |         |         |     |     |      |      |       |
+        |    2 |       |       |      |      |      |      |         |         |     |     |      |      |       |
+        |    3 |       |       |      |      |      |      |         |         |     |     |      |      |       |
+        |    4 |       |       |      |      |      |      |         |         |     |     |      |      |       |
+        |    5 |       |       |      |      |      |      |         |         |     |     |      |      |       |
+
+ with your results in each cell or a `NaN` keyword if the data is not avaible.
+ 
+ You can change the order of the columns (but they should all be present in the file with the correct name). You can also remove or add some rows.
+
+
  * In case of any problem with those instructions, in particular with the format imposed for the result `.dat` files, please contact the organisers.
  
  * **Deadline:**  January 6, 2017.
