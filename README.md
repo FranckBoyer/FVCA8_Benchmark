@@ -10,6 +10,8 @@
  
 #### Important informations
 
+ * **Extended Deadline:**  January 31, 2017.
+
  * Due to the maximum number of allowed pages you may not be able to include all your results in the final PDF version of the proceedings. In this case, you will need to comment out some lines in the source LaTeX template.
  
   However, you are kindly invited to send **all the plain text files containing your results** to the organisers. They could be very useful to perform comparisons between all the contributions. 
@@ -31,7 +33,7 @@
 
  * In case of any problem with those instructions, in particular with the format imposed for the result `.dat` files, please contact the organisers.
  
- * **Deadline:**  January 6, 2017.
+
 
 
 
