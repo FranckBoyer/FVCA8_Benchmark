@@ -1,5 +1,28 @@
 # Benchmark for the FVCA8 Conference
 
+## :warning: News (update on January 2, 2017)
+
+#### Small corrections on the LaTeX Template
+
+A new version of the LaTeX has been released [ZIP archive](benchmark_FVCA8_template.zip)
+
+  * Few style corrections to improve the readability of the tables : the only modified LaTeX file is  `macros.tex` 
+  * **Lid driven cavity tests:** Correction of a typo concerning the suggested abscissas where the mid-line *vertical* velocity `v` should be reported. The corresponding `data/*.dat` files were updated
+
+|Old values | New values |
+|:---------:|:----------:|
+|~~0.0~~    |   0.0      |
+|~~0.0625~~ |   0.0703   |
+|~~0.1016~~ |   0.0938   |
+|~~0.2813~~ |   0.2266   |
+|~~0.5~~    |   0.5      |
+|~~0.7344~~ |   0.8594   |
+|~~0.9531~~ |   0.9453   |
+|~~0.9688~~ |   0.9609   |
+|~~1.0~~    |   1.0      |
+
+   **Nota bene:** The ordinates where the mid-line *horizontal* velocity `u` are unchanged
+
 
 ## News (update on December 4, 2016)
 
