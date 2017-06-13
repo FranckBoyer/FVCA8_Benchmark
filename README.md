@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/68692395.svg)](https://zenodo.org/badge/latestdoi/68692395)
+
 # Benchmark for the FVCA8 Conference
 
 ## :warning: News (update on January 2, 2017)
