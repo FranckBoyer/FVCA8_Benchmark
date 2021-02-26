@@ -8,7 +8,7 @@
 
 You can download [a synthesis of the results](Benchmark-synthesis.pdf) of the various contributions to the benchmark.
 
-## :warning: News (update on January 2, 2017)
+## News (update on January 2, 2017)
 
 #### Small corrections on the LaTeX Template
 
