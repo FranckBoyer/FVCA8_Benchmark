@@ -1,6 +1,13 @@
 [![DOI](https://zenodo.org/badge/68692395.svg)](https://zenodo.org/badge/latestdoi/68692395)
 
 # Benchmark for the FVCA8 Conference
+​
+5
+## :warning: News (update on June 13, 2017)
+
+#### Synthesis of the results
+
+You can download [a synthesis of the results](Benchmark-synthesis.pdf) of the various contributions to the benchmark.
 
 ## :warning: News (update on January 2, 2017)
 
